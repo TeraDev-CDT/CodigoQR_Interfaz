@@ -1,0 +1,376 @@
+/* Inventory Desing */
+
+position: relative;
+width: 1000px;
+height: 600px;
+
+background: rgba(93, 125, 236, 0.9);
+
+
+/* Group 1 */
+
+position: absolute;
+visibility: hidden;
+width: nanpx;
+height: nanpx;
+left: 55px;
+top: 30px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 445px;
+height: 159px;
+left: 55px;
+top: 30px;
+
+background: rgba(160, 159, 234, 0.64);
+opacity: 0.8;
+border-radius: 50px;
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 60px;
+left: 73px;
+top: 195px;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 38px;
+left: 73px;
+top: 217px;
+
+background: #C4C4C4;
+
+
+/* Departamento */
+
+position: absolute;
+width: 127px;
+height: 22px;
+left: 80px;
+top: 195px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 67px;
+left: 73px;
+top: 261px;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 43px;
+left: 73px;
+top: 285px;
+
+background: #C4C4C4;
+border-radius: 50px;
+
+
+/* Equipo */
+
+position: absolute;
+width: 66px;
+height: 28px;
+left: 77px;
+top: 261px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 72px;
+left: 73px;
+top: 426px;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 43px;
+left: 73px;
+top: 455px;
+
+background: #C4C4C4;
+border-radius: 50px;
+
+
+/* TextBox */
+
+position: absolute;
+width: 77px;
+height: 25px;
+left: 85px;
+top: 426px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 70px;
+left: 73px;
+top: 339px;
+
+
+
+/* TextBox */
+
+position: absolute;
+width: 377px;
+height: 42px;
+left: 73px;
+top: 367px;
+
+background: #C4C4C4;
+border-radius: 50px;
+
+
+/* Marca */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 80px;
+top: 339px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFAFA;
+
+
+
+/* Button */
+
+position: absolute;
+width: 213px;
+height: 42px;
+left: 56px;
+top: 528px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 213px;
+height: 42px;
+left: 56px;
+top: 528px;
+
+background: #3D2FDF;
+border-radius: 45px;
+
+
+/* Registrar */
+
+position: absolute;
+width: 147px;
+height: 23px;
+left: 85px;
+top: 531px;
+
+font-family: Radley;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 213px;
+height: 42px;
+left: 287px;
+top: 528px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 213px;
+height: 42px;
+left: 287px;
+top: 528px;
+
+background: #3D2FDF;
+border-radius: 45px;
+
+
+/* Limpiar */
+
+position: absolute;
+width: 147px;
+height: 39px;
+left: 316px;
+top: 531px;
+
+font-family: Radley;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Background */
+
+position: absolute;
+width: 897.5px;
+height: 534px;
+left: 59px;
+top: 22.5px;
+
+
+
+/* Slace QR */
+
+position: absolute;
+width: 358px;
+height: 534px;
+left: 598.5px;
+top: 22.5px;
+
+background: #C4C4C4;
+border-radius: 35px;
+
+
+/* QR */
+
+position: absolute;
+width: 152px;
+height: 76px;
+left: 703px;
+top: 53px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 108px;
+
+color: #000000;
+
+
+
+/* Title  */
+
+position: absolute;
+width: 391px;
+height: 144px;
+left: 59px;
+top: 40px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 391px;
+height: 135px;
+left: 59px;
+top: 40px;
+
+background: rgba(20, 77, 223, 0.65);
+border-radius: 50px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 95px;
+height: 85px;
+left: 84px;
+top: 62px;
+
+background: url(Logo Club 1.jpg);
+border-radius: 45px;
+
+
+/* Sistema de Inventario UAH */
+
+position: absolute;
+width: 200px;
+height: 103px;
+left: 185px;
+top: 81px;
+
+font-family: Radley;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* imgQR */
+
+position: absolute;
+width: 221px;
+height: 254px;
+left: 674px;
+top: 162px;
+
+background: rgba(57, 103, 223, 0.58);
